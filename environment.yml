@@ -1,0 +1,9 @@
+name: gdexperimentsdev
+dependencies:
+    - python=2.7.12
+    - nose
+    - scikit-learn
+    - pandas
+    - sympy
+    - pip:
+        - toolz==0.8.2
